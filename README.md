@@ -1,2 +1,2 @@
-second time on git repo
+My first commit
 
