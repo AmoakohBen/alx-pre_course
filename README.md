@@ -1,2 +1,2 @@
-My first readme
+second time on git repo
 
